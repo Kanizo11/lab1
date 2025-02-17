@@ -9,3 +9,5 @@
 5. I deployed the `index.html` file to GitHub Pages by firstly navigating to the repository settings on GitHub then enabling GitHub Pages and selecting the main branch as the source and lastly verifying that the site was accessible via the provided GitHub Pages URL.
 
 6. I used Git locally to bundle the repository for submission. I executed the following command to create the submission file: ```bash git bundle create <student-id>-submission.bundle --all.
+
+Github pages link : https://kanizo11.github.io/lab1/
